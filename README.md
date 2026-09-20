@@ -1,4 +1,2 @@
 # HICER:LEARNING WHEN VISUAL EVIDENCE SHOULD REVISE TEXT FOR MULTI-IMAGE SARCASM DETECTION
-
-> **ICASSP 2027** 
-> **代码正在整理中！！！** 
+> **The full code will be coming soon~！！！** 
